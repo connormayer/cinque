@@ -1,0 +1,365 @@
+Rule,Support,Confidence
+g_N-Num-A-Dem=0 --> a_N-A-Num-Dem=0, 68, 0.544
+a_N-A-Num-Dem=0 --> g_N-Num-A-Dem=0, 68, 0.1259259259259259
+b_Dem-Num-A-N=0 --> d_Dem-Num-N-A=0, 61, 0.16621253405994552
+d_Dem-Num-N-A=0 --> b_Dem-Num-A-N=0, 61, 0.31443298969072164
+c_Dem-N-A-Num=0 --> a_N-A-Num-Dem=0, 31, 0.16489361702127658
+a_N-A-Num-Dem=0 --> c_Dem-N-A-Num=0, 31, 0.05740740740740741
+f_N-A-Dem-Num=0 --> a_N-A-Num-Dem=0, 27, 0.2523364485981308
+a_N-A-Num-Dem=0 --> f_N-A-Dem-Num=0, 27, 0.05
+e_Num-N-A-Dem=0 --> a_N-A-Num-Dem=0, 25, 0.1016260162601626
+a_N-A-Num-Dem=0 --> e_Num-N-A-Dem=0, 25, 0.046296296296296294
+b_Dem-Num-A-N=0 --> i_Dem-A-N-Num=0, 24, 0.0653950953678474
+i_Dem-A-N-Num=0 --> b_Dem-Num-A-N=0, 24, 0.3
+c_Dem-N-A-Num=0 --> h_Dem-N-Num-A=0, 24, 0.1276595744680851
+h_Dem-N-Num-A=0 --> c_Dem-N-A-Num=0, 24, 0.2962962962962963
+o_A-N-Num-Dem=0 --> a_N-A-Num-Dem=0, 24, 0.5333333333333333
+a_N-A-Num-Dem=0 --> o_A-N-Num-Dem=0, 24, 0.044444444444444446
+m_Num-A-N-Dem=0 --> e_Num-N-A-Dem=0, 21, 0.2625
+e_Num-N-A-Dem=0 --> m_Num-A-N-Dem=0, 21, 0.08536585365853659
+i_Dem-A-N-Num=0 --> c_Dem-N-A-Num=0, 17, 0.2125
+c_Dem-N-A-Num=0 --> i_Dem-A-N-Num=0, 17, 0.09042553191489362
+d_Dem-Num-N-A=0 --> e_Num-N-A-Dem=0, 15, 0.07731958762886598
+e_Num-N-A-Dem=0 --> d_Dem-Num-N-A=0, 15, 0.06097560975609756
+e_Num-N-A-Dem=0 --> g_N-Num-A-Dem=0, 14, 0.056910569105691054
+g_N-Num-A-Dem=0 --> e_Num-N-A-Dem=0, 14, 0.112
+d_Dem-Num-N-A=0 --> h_Dem-N-Num-A=0, 13, 0.06701030927835051
+h_Dem-N-Num-A=0 --> d_Dem-Num-N-A=0, 13, 0.16049382716049382
+m_Num-A-N-Dem=0 --> b_Dem-Num-A-N=0, 12, 0.15
+b_Dem-Num-A-N=0 --> m_Num-A-N-Dem=0, 12, 0.0326975476839237
+f_N-A-Dem-Num=0 --> g_N-Num-A-Dem=0, 10, 0.09345794392523364
+g_N-Num-A-Dem=0 --> f_N-A-Dem-Num=0, 10, 0.08
+n_N-Dem-A-Num=0 --> l_N-Dem-Num-A=0, 9, 0.20930232558139536
+l_N-Dem-Num-A=0 --> n_N-Dem-A-Num=0, 9, 0.12
+i_Dem-A-N-Num=0 --> h_Dem-N-Num-A=0, 9, 0.1125
+h_Dem-N-Num-A=0 --> i_Dem-A-N-Num=0, 9, 0.1111111111111111
+g_N-Num-A-Dem=0 --> h_Dem-N-Num-A=0, 8, 0.064
+h_Dem-N-Num-A=0 --> g_N-Num-A-Dem=0, 8, 0.09876543209876543
+l_N-Dem-Num-A=0 --> h_Dem-N-Num-A=0, 8, 0.10666666666666667
+h_Dem-N-Num-A=0 --> l_N-Dem-Num-A=0, 8, 0.09876543209876543
+g_N-Num-A-Dem=0 & f_N-A-Dem-Num=0 --> a_N-A-Num-Dem=0, 7, 0.7
+a_N-A-Num-Dem=0 & f_N-A-Dem-Num=0 --> g_N-Num-A-Dem=0, 7, 0.25925925925925924
+f_N-A-Dem-Num=0 --> a_N-A-Num-Dem=0 & g_N-Num-A-Dem=0, 7, 0.06542056074766354
+a_N-A-Num-Dem=0 & g_N-Num-A-Dem=0 --> f_N-A-Dem-Num=0, 7, 0.10294117647058823
+g_N-Num-A-Dem=0 --> a_N-A-Num-Dem=0 & f_N-A-Dem-Num=0, 7, 0.056
+a_N-A-Num-Dem=0 --> g_N-Num-A-Dem=0 & f_N-A-Dem-Num=0, 7, 0.012962962962962963
+d_Dem-Num-N-A=0 --> c_Dem-N-A-Num=0, 7, 0.03608247422680412
+c_Dem-N-A-Num=0 --> d_Dem-Num-N-A=0, 7, 0.03723404255319149
+d_Dem-Num-N-A=0 --> a_N-A-Num-Dem=0, 7, 0.03608247422680412
+a_N-A-Num-Dem=0 --> d_Dem-Num-N-A=0, 7, 0.012962962962962963
+l_N-Dem-Num-A=0 --> a_N-A-Num-Dem=0, 7, 0.09333333333333334
+a_N-A-Num-Dem=0 --> l_N-Dem-Num-A=0, 7, 0.012962962962962963
+b_Dem-Num-A-N=0 --> e_Num-N-A-Dem=0, 7, 0.01907356948228883
+e_Num-N-A-Dem=0 --> b_Dem-Num-A-N=0, 7, 0.028455284552845527
+n_N-Dem-A-Num=0 --> c_Dem-N-A-Num=0, 7, 0.16279069767441862
+c_Dem-N-A-Num=0 --> n_N-Dem-A-Num=0, 7, 0.03723404255319149
+b_Dem-Num-A-N=0 --> c_Dem-N-A-Num=0, 7, 0.01907356948228883
+c_Dem-N-A-Num=0 --> b_Dem-Num-A-N=0, 7, 0.03723404255319149
+g_N-Num-A-Dem=0 & e_Num-N-A-Dem=0 --> a_N-A-Num-Dem=0, 6, 0.42857142857142855
+a_N-A-Num-Dem=0 & e_Num-N-A-Dem=0 --> g_N-Num-A-Dem=0, 6, 0.24
+e_Num-N-A-Dem=0 --> a_N-A-Num-Dem=0 & g_N-Num-A-Dem=0, 6, 0.024390243902439025
+a_N-A-Num-Dem=0 & g_N-Num-A-Dem=0 --> e_Num-N-A-Dem=0, 6, 0.08823529411764706
+g_N-Num-A-Dem=0 --> a_N-A-Num-Dem=0 & e_Num-N-A-Dem=0, 6, 0.048
+a_N-A-Num-Dem=0 --> g_N-Num-A-Dem=0 & e_Num-N-A-Dem=0, 6, 0.011111111111111112
+b_Dem-Num-A-N=0 --> a_N-A-Num-Dem=0, 6, 0.01634877384196185
+a_N-A-Num-Dem=0 --> b_Dem-Num-A-N=0, 6, 0.011111111111111112
+f_N-A-Dem-Num=0 --> c_Dem-N-A-Num=0, 6, 0.056074766355140186
+c_Dem-N-A-Num=0 --> f_N-A-Dem-Num=0, 6, 0.031914893617021274
+b_Dem-Num-A-N=0 --> w_A-Dem-Num-N=0, 6, 0.01634877384196185
+w_A-Dem-Num-N=0 --> b_Dem-Num-A-N=0, 6, 1.0
+a_N-A-Num-Dem=0 --> h_Dem-N-Num-A=0, 6, 0.011111111111111112
+h_Dem-N-Num-A=0 --> a_N-A-Num-Dem=0, 6, 0.07407407407407407
+d_Dem-Num-N-A=0 & b_Dem-Num-A-N=0 --> e_Num-N-A-Dem=0, 5, 0.08196721311475409
+d_Dem-Num-N-A=0 --> e_Num-N-A-Dem=0 & b_Dem-Num-A-N=0, 5, 0.02577319587628866
+e_Num-N-A-Dem=0 & b_Dem-Num-A-N=0 --> d_Dem-Num-N-A=0, 5, 0.7142857142857143
+b_Dem-Num-A-N=0 --> e_Num-N-A-Dem=0 & d_Dem-Num-N-A=0, 5, 0.013623978201634877
+e_Num-N-A-Dem=0 --> d_Dem-Num-N-A=0 & b_Dem-Num-A-N=0, 5, 0.02032520325203252
+e_Num-N-A-Dem=0 & d_Dem-Num-N-A=0 --> b_Dem-Num-A-N=0, 5, 0.3333333333333333
+d_Dem-Num-N-A=0 --> g_N-Num-A-Dem=0, 5, 0.02577319587628866
+g_N-Num-A-Dem=0 --> d_Dem-Num-N-A=0, 5, 0.04
+l_N-Dem-Num-A=0 --> c_Dem-N-A-Num=0, 5, 0.06666666666666667
+c_Dem-N-A-Num=0 --> l_N-Dem-Num-A=0, 5, 0.026595744680851064
+n_N-Dem-A-Num=0 --> a_N-A-Num-Dem=0, 5, 0.11627906976744186
+a_N-A-Num-Dem=0 --> n_N-Dem-A-Num=0, 5, 0.009259259259259259
+b_Dem-Num-A-N=0 --> h_Dem-N-Num-A=0, 5, 0.013623978201634877
+h_Dem-N-Num-A=0 --> b_Dem-Num-A-N=0, 5, 0.06172839506172839
+i_Dem-A-N-Num=0 --> a_N-A-Num-Dem=0, 5, 0.0625
+a_N-A-Num-Dem=0 --> i_Dem-A-N-Num=0, 5, 0.009259259259259259
+m_Num-A-N-Dem=0 --> d_Dem-Num-N-A=0, 5, 0.0625
+d_Dem-Num-N-A=0 --> m_Num-A-N-Dem=0, 5, 0.02577319587628866
+f_N-A-Dem-Num=0 --> e_Num-N-A-Dem=0, 5, 0.04672897196261682
+e_Num-N-A-Dem=0 --> f_N-A-Dem-Num=0, 5, 0.02032520325203252
+f_N-A-Dem-Num=0 --> p_A-N-Dem-Num=0, 5, 0.04672897196261682
+p_A-N-Dem-Num=0 --> f_N-A-Dem-Num=0, 5, 0.19230769230769232
+l_N-Dem-Num-A=0 --> g_N-Num-A-Dem=0, 5, 0.06666666666666667
+g_N-Num-A-Dem=0 --> l_N-Dem-Num-A=0, 5, 0.04
+b_Dem-Num-A-N=0 --> r_Dem-A-Num-N=0, 5, 0.013623978201634877
+r_Dem-A-Num-N=0 --> b_Dem-Num-A-N=0, 5, 0.7142857142857143
+i_Dem-A-N-Num=0 & b_Dem-Num-A-N=0 --> d_Dem-Num-N-A=0, 4, 0.16666666666666666
+i_Dem-A-N-Num=0 --> d_Dem-Num-N-A=0 & b_Dem-Num-A-N=0, 4, 0.05
+d_Dem-Num-N-A=0 & b_Dem-Num-A-N=0 --> i_Dem-A-N-Num=0, 4, 0.06557377049180328
+b_Dem-Num-A-N=0 --> d_Dem-Num-N-A=0 & i_Dem-A-N-Num=0, 4, 0.010899182561307902
+d_Dem-Num-N-A=0 --> i_Dem-A-N-Num=0 & b_Dem-Num-A-N=0, 4, 0.020618556701030927
+d_Dem-Num-N-A=0 & i_Dem-A-N-Num=0 --> b_Dem-Num-A-N=0, 4, 1.0
+a_N-A-Num-Dem=0 & g_N-Num-A-Dem=0 --> h_Dem-N-Num-A=0, 4, 0.058823529411764705
+g_N-Num-A-Dem=0 --> h_Dem-N-Num-A=0 & a_N-A-Num-Dem=0, 4, 0.032
+a_N-A-Num-Dem=0 --> h_Dem-N-Num-A=0 & g_N-Num-A-Dem=0, 4, 0.007407407407407408
+h_Dem-N-Num-A=0 & g_N-Num-A-Dem=0 --> a_N-A-Num-Dem=0, 4, 0.5
+h_Dem-N-Num-A=0 & a_N-A-Num-Dem=0 --> g_N-Num-A-Dem=0, 4, 0.6666666666666666
+h_Dem-N-Num-A=0 --> a_N-A-Num-Dem=0 & g_N-Num-A-Dem=0, 4, 0.04938271604938271
+b_Dem-Num-A-N=0 & m_Num-A-N-Dem=0 --> d_Dem-Num-N-A=0, 4, 0.3333333333333333
+m_Num-A-N-Dem=0 --> d_Dem-Num-N-A=0 & b_Dem-Num-A-N=0, 4, 0.05
+d_Dem-Num-N-A=0 & m_Num-A-N-Dem=0 --> b_Dem-Num-A-N=0, 4, 0.8
+d_Dem-Num-N-A=0 & b_Dem-Num-A-N=0 --> m_Num-A-N-Dem=0, 4, 0.06557377049180328
+b_Dem-Num-A-N=0 --> d_Dem-Num-N-A=0 & m_Num-A-N-Dem=0, 4, 0.010899182561307902
+d_Dem-Num-N-A=0 --> b_Dem-Num-A-N=0 & m_Num-A-N-Dem=0, 4, 0.020618556701030927
+n_N-Dem-A-Num=0 --> f_N-A-Dem-Num=0, 4, 0.09302325581395349
+f_N-A-Dem-Num=0 --> n_N-Dem-A-Num=0, 4, 0.037383177570093455
+i_Dem-A-N-Num=0 --> o_A-N-Num-Dem=0, 4, 0.05
+o_A-N-Num-Dem=0 --> i_Dem-A-N-Num=0, 4, 0.08888888888888889
+d_Dem-Num-N-A=0 --> l_N-Dem-Num-A=0, 4, 0.020618556701030927
+l_N-Dem-Num-A=0 --> d_Dem-Num-N-A=0, 4, 0.05333333333333334
+c_Dem-N-A-Num=0 --> g_N-Num-A-Dem=0, 4, 0.02127659574468085
+g_N-Num-A-Dem=0 --> c_Dem-N-A-Num=0, 4, 0.032
+o_A-N-Num-Dem=0 --> g_N-Num-A-Dem=0, 4, 0.08888888888888889
+g_N-Num-A-Dem=0 --> o_A-N-Num-Dem=0, 4, 0.032
+i_Dem-A-N-Num=0 --> d_Dem-Num-N-A=0, 4, 0.05
+d_Dem-Num-N-A=0 --> i_Dem-A-N-Num=0, 4, 0.020618556701030927
+n_N-Dem-A-Num=0 --> g_N-Num-A-Dem=0, 4, 0.09302325581395349
+g_N-Num-A-Dem=0 --> n_N-Dem-A-Num=0, 4, 0.032
+o_A-N-Num-Dem=0 & i_Dem-A-N-Num=0 --> a_N-A-Num-Dem=0, 3, 0.75
+a_N-A-Num-Dem=0 & i_Dem-A-N-Num=0 --> o_A-N-Num-Dem=0, 3, 0.6
+i_Dem-A-N-Num=0 --> a_N-A-Num-Dem=0 & o_A-N-Num-Dem=0, 3, 0.0375
+a_N-A-Num-Dem=0 & o_A-N-Num-Dem=0 --> i_Dem-A-N-Num=0, 3, 0.125
+o_A-N-Num-Dem=0 --> a_N-A-Num-Dem=0 & i_Dem-A-N-Num=0, 3, 0.06666666666666667
+a_N-A-Num-Dem=0 --> o_A-N-Num-Dem=0 & i_Dem-A-N-Num=0, 3, 0.005555555555555556
+g_N-Num-A-Dem=0 & l_N-Dem-Num-A=0 --> a_N-A-Num-Dem=0, 3, 0.6
+a_N-A-Num-Dem=0 & l_N-Dem-Num-A=0 --> g_N-Num-A-Dem=0, 3, 0.42857142857142855
+l_N-Dem-Num-A=0 --> a_N-A-Num-Dem=0 & g_N-Num-A-Dem=0, 3, 0.04
+a_N-A-Num-Dem=0 & g_N-Num-A-Dem=0 --> l_N-Dem-Num-A=0, 3, 0.04411764705882353
+g_N-Num-A-Dem=0 --> a_N-A-Num-Dem=0 & l_N-Dem-Num-A=0, 3, 0.024
+a_N-A-Num-Dem=0 --> g_N-Num-A-Dem=0 & l_N-Dem-Num-A=0, 3, 0.005555555555555556
+g_N-Num-A-Dem=0 & o_A-N-Num-Dem=0 --> a_N-A-Num-Dem=0, 3, 0.75
+a_N-A-Num-Dem=0 & o_A-N-Num-Dem=0 --> g_N-Num-A-Dem=0, 3, 0.125
+o_A-N-Num-Dem=0 --> a_N-A-Num-Dem=0 & g_N-Num-A-Dem=0, 3, 0.06666666666666667
+a_N-A-Num-Dem=0 & g_N-Num-A-Dem=0 --> o_A-N-Num-Dem=0, 3, 0.04411764705882353
+g_N-Num-A-Dem=0 --> a_N-A-Num-Dem=0 & o_A-N-Num-Dem=0, 3, 0.024
+a_N-A-Num-Dem=0 --> g_N-Num-A-Dem=0 & o_A-N-Num-Dem=0, 3, 0.005555555555555556
+c_Dem-N-A-Num=0 & l_N-Dem-Num-A=0 --> h_Dem-N-Num-A=0, 3, 0.6
+l_N-Dem-Num-A=0 --> h_Dem-N-Num-A=0 & c_Dem-N-A-Num=0, 3, 0.04
+c_Dem-N-A-Num=0 --> h_Dem-N-Num-A=0 & l_N-Dem-Num-A=0, 3, 0.015957446808510637
+h_Dem-N-Num-A=0 & l_N-Dem-Num-A=0 --> c_Dem-N-A-Num=0, 3, 0.375
+h_Dem-N-Num-A=0 & c_Dem-N-A-Num=0 --> l_N-Dem-Num-A=0, 3, 0.125
+h_Dem-N-Num-A=0 --> c_Dem-N-A-Num=0 & l_N-Dem-Num-A=0, 3, 0.037037037037037035
+g_N-Num-A-Dem=0 & c_Dem-N-A-Num=0 --> h_Dem-N-Num-A=0, 3, 0.75
+c_Dem-N-A-Num=0 --> h_Dem-N-Num-A=0 & g_N-Num-A-Dem=0, 3, 0.015957446808510637
+g_N-Num-A-Dem=0 --> h_Dem-N-Num-A=0 & c_Dem-N-A-Num=0, 3, 0.024
+h_Dem-N-Num-A=0 & c_Dem-N-A-Num=0 --> g_N-Num-A-Dem=0, 3, 0.125
+h_Dem-N-Num-A=0 & g_N-Num-A-Dem=0 --> c_Dem-N-A-Num=0, 3, 0.375
+h_Dem-N-Num-A=0 --> g_N-Num-A-Dem=0 & c_Dem-N-A-Num=0, 3, 0.037037037037037035
+o_A-N-Num-Dem=0 & c_Dem-N-A-Num=0 --> a_N-A-Num-Dem=0, 3, 1.0
+a_N-A-Num-Dem=0 & c_Dem-N-A-Num=0 --> o_A-N-Num-Dem=0, 3, 0.0967741935483871
+c_Dem-N-A-Num=0 --> a_N-A-Num-Dem=0 & o_A-N-Num-Dem=0, 3, 0.015957446808510637
+a_N-A-Num-Dem=0 & o_A-N-Num-Dem=0 --> c_Dem-N-A-Num=0, 3, 0.125
+o_A-N-Num-Dem=0 --> a_N-A-Num-Dem=0 & c_Dem-N-A-Num=0, 3, 0.06666666666666667
+a_N-A-Num-Dem=0 --> o_A-N-Num-Dem=0 & c_Dem-N-A-Num=0, 3, 0.005555555555555556
+d_Dem-Num-N-A=0 & b_Dem-Num-A-N=0 --> a_N-A-Num-Dem=0, 3, 0.04918032786885246
+a_N-A-Num-Dem=0 & b_Dem-Num-A-N=0 --> d_Dem-Num-N-A=0, 3, 0.5
+b_Dem-Num-A-N=0 --> a_N-A-Num-Dem=0 & d_Dem-Num-N-A=0, 3, 0.008174386920980926
+a_N-A-Num-Dem=0 --> d_Dem-Num-N-A=0 & b_Dem-Num-A-N=0, 3, 0.005555555555555556
+a_N-A-Num-Dem=0 & d_Dem-Num-N-A=0 --> b_Dem-Num-A-N=0, 3, 0.42857142857142855
+d_Dem-Num-N-A=0 --> a_N-A-Num-Dem=0 & b_Dem-Num-A-N=0, 3, 0.015463917525773196
+b_Dem-Num-A-N=0 & m_Num-A-N-Dem=0 --> e_Num-N-A-Dem=0, 3, 0.25
+m_Num-A-N-Dem=0 --> e_Num-N-A-Dem=0 & b_Dem-Num-A-N=0, 3, 0.0375
+e_Num-N-A-Dem=0 & m_Num-A-N-Dem=0 --> b_Dem-Num-A-N=0, 3, 0.14285714285714285
+e_Num-N-A-Dem=0 & b_Dem-Num-A-N=0 --> m_Num-A-N-Dem=0, 3, 0.42857142857142855
+b_Dem-Num-A-N=0 --> e_Num-N-A-Dem=0 & m_Num-A-N-Dem=0, 3, 0.008174386920980926
+e_Num-N-A-Dem=0 --> b_Dem-Num-A-N=0 & m_Num-A-N-Dem=0, 3, 0.012195121951219513
+g_N-Num-A-Dem=0 & q_N-Num-Dem-A=0 --> a_N-A-Num-Dem=0, 3, 1.0
+a_N-A-Num-Dem=0 & q_N-Num-Dem-A=0 --> g_N-Num-A-Dem=0, 3, 1.0
+q_N-Num-Dem-A=0 --> a_N-A-Num-Dem=0 & g_N-Num-A-Dem=0, 3, 0.5
+a_N-A-Num-Dem=0 & g_N-Num-A-Dem=0 --> q_N-Num-Dem-A=0, 3, 0.04411764705882353
+g_N-Num-A-Dem=0 --> a_N-A-Num-Dem=0 & q_N-Num-Dem-A=0, 3, 0.024
+a_N-A-Num-Dem=0 --> g_N-Num-A-Dem=0 & q_N-Num-Dem-A=0, 3, 0.005555555555555556
+l_N-Dem-Num-A=0 & f_N-A-Dem-Num=0 --> a_N-A-Num-Dem=0, 3, 1.0
+a_N-A-Num-Dem=0 & f_N-A-Dem-Num=0 --> l_N-Dem-Num-A=0, 3, 0.1111111111111111
+f_N-A-Dem-Num=0 --> a_N-A-Num-Dem=0 & l_N-Dem-Num-A=0, 3, 0.028037383177570093
+a_N-A-Num-Dem=0 & l_N-Dem-Num-A=0 --> f_N-A-Dem-Num=0, 3, 0.42857142857142855
+l_N-Dem-Num-A=0 --> a_N-A-Num-Dem=0 & f_N-A-Dem-Num=0, 3, 0.04
+a_N-A-Num-Dem=0 --> l_N-Dem-Num-A=0 & f_N-A-Dem-Num=0, 3, 0.005555555555555556
+c_Dem-N-A-Num=0 & i_Dem-A-N-Num=0 --> a_N-A-Num-Dem=0, 3, 0.17647058823529413
+a_N-A-Num-Dem=0 & i_Dem-A-N-Num=0 --> c_Dem-N-A-Num=0, 3, 0.6
+i_Dem-A-N-Num=0 --> a_N-A-Num-Dem=0 & c_Dem-N-A-Num=0, 3, 0.0375
+a_N-A-Num-Dem=0 & c_Dem-N-A-Num=0 --> i_Dem-A-N-Num=0, 3, 0.0967741935483871
+c_Dem-N-A-Num=0 --> a_N-A-Num-Dem=0 & i_Dem-A-N-Num=0, 3, 0.015957446808510637
+a_N-A-Num-Dem=0 --> c_Dem-N-A-Num=0 & i_Dem-A-N-Num=0, 3, 0.005555555555555556
+q_N-Num-Dem-A=0 --> a_N-A-Num-Dem=0, 3, 0.5
+a_N-A-Num-Dem=0 --> q_N-Num-Dem-A=0, 3, 0.005555555555555556
+o_A-N-Num-Dem=0 --> p_A-N-Dem-Num=0, 3, 0.06666666666666667
+p_A-N-Dem-Num=0 --> o_A-N-Num-Dem=0, 3, 0.11538461538461539
+c_Dem-N-A-Num=0 --> o_A-N-Num-Dem=0, 3, 0.015957446808510637
+o_A-N-Num-Dem=0 --> c_Dem-N-A-Num=0, 3, 0.06666666666666667
+f_N-A-Dem-Num=0 --> o_A-N-Num-Dem=0, 3, 0.028037383177570093
+o_A-N-Num-Dem=0 --> f_N-A-Dem-Num=0, 3, 0.06666666666666667
+n_N-Dem-A-Num=0 --> h_Dem-N-Num-A=0, 3, 0.06976744186046512
+h_Dem-N-Num-A=0 --> n_N-Dem-A-Num=0, 3, 0.037037037037037035
+q_N-Num-Dem-A=0 --> g_N-Num-A-Dem=0, 3, 0.5
+g_N-Num-A-Dem=0 --> q_N-Num-Dem-A=0, 3, 0.024
+f_N-A-Dem-Num=0 --> l_N-Dem-Num-A=0, 3, 0.028037383177570093
+l_N-Dem-Num-A=0 --> f_N-A-Dem-Num=0, 3, 0.04
+o_A-N-Num-Dem=0 & c_Dem-N-A-Num=0 & i_Dem-A-N-Num=0 --> a_N-A-Num-Dem=0, 2, 1.0
+a_N-A-Num-Dem=0 & c_Dem-N-A-Num=0 & i_Dem-A-N-Num=0 --> o_A-N-Num-Dem=0, 2, 0.6666666666666666
+c_Dem-N-A-Num=0 & i_Dem-A-N-Num=0 --> a_N-A-Num-Dem=0 & o_A-N-Num-Dem=0, 2, 0.11764705882352941
+a_N-A-Num-Dem=0 & o_A-N-Num-Dem=0 & i_Dem-A-N-Num=0 --> c_Dem-N-A-Num=0, 2, 0.6666666666666666
+o_A-N-Num-Dem=0 & i_Dem-A-N-Num=0 --> a_N-A-Num-Dem=0 & c_Dem-N-A-Num=0, 2, 0.5
+a_N-A-Num-Dem=0 & i_Dem-A-N-Num=0 --> o_A-N-Num-Dem=0 & c_Dem-N-A-Num=0, 2, 0.4
+i_Dem-A-N-Num=0 --> a_N-A-Num-Dem=0 & o_A-N-Num-Dem=0 & c_Dem-N-A-Num=0, 2, 0.025
+a_N-A-Num-Dem=0 & o_A-N-Num-Dem=0 & c_Dem-N-A-Num=0 --> i_Dem-A-N-Num=0, 2, 0.6666666666666666
+o_A-N-Num-Dem=0 & c_Dem-N-A-Num=0 --> a_N-A-Num-Dem=0 & i_Dem-A-N-Num=0, 2, 0.6666666666666666
+a_N-A-Num-Dem=0 & c_Dem-N-A-Num=0 --> o_A-N-Num-Dem=0 & i_Dem-A-N-Num=0, 2, 0.06451612903225806
+c_Dem-N-A-Num=0 --> a_N-A-Num-Dem=0 & o_A-N-Num-Dem=0 & i_Dem-A-N-Num=0, 2, 0.010638297872340425
+a_N-A-Num-Dem=0 & o_A-N-Num-Dem=0 --> c_Dem-N-A-Num=0 & i_Dem-A-N-Num=0, 2, 0.08333333333333333
+o_A-N-Num-Dem=0 --> a_N-A-Num-Dem=0 & c_Dem-N-A-Num=0 & i_Dem-A-N-Num=0, 2, 0.044444444444444446
+c_Dem-N-A-Num=0 & l_N-Dem-Num-A=0 & n_N-Dem-A-Num=0 --> h_Dem-N-Num-A=0, 2, 1.0
+l_N-Dem-Num-A=0 & n_N-Dem-A-Num=0 --> h_Dem-N-Num-A=0 & c_Dem-N-A-Num=0, 2, 0.2222222222222222
+c_Dem-N-A-Num=0 & n_N-Dem-A-Num=0 --> h_Dem-N-Num-A=0 & l_N-Dem-Num-A=0, 2, 0.2857142857142857
+n_N-Dem-A-Num=0 --> h_Dem-N-Num-A=0 & c_Dem-N-A-Num=0 & l_N-Dem-Num-A=0, 2, 0.046511627906976744
+c_Dem-N-A-Num=0 & l_N-Dem-Num-A=0 --> h_Dem-N-Num-A=0 & n_N-Dem-A-Num=0, 2, 0.4
+l_N-Dem-Num-A=0 --> h_Dem-N-Num-A=0 & c_Dem-N-A-Num=0 & n_N-Dem-A-Num=0, 2, 0.02666666666666667
+c_Dem-N-A-Num=0 --> h_Dem-N-Num-A=0 & l_N-Dem-Num-A=0 & n_N-Dem-A-Num=0, 2, 0.010638297872340425
+h_Dem-N-Num-A=0 & l_N-Dem-Num-A=0 & n_N-Dem-A-Num=0 --> c_Dem-N-A-Num=0, 2, 1.0
+h_Dem-N-Num-A=0 & c_Dem-N-A-Num=0 & n_N-Dem-A-Num=0 --> l_N-Dem-Num-A=0, 2, 1.0
+h_Dem-N-Num-A=0 & n_N-Dem-A-Num=0 --> c_Dem-N-A-Num=0 & l_N-Dem-Num-A=0, 2, 0.6666666666666666
+h_Dem-N-Num-A=0 & c_Dem-N-A-Num=0 & l_N-Dem-Num-A=0 --> n_N-Dem-A-Num=0, 2, 0.6666666666666666
+h_Dem-N-Num-A=0 & l_N-Dem-Num-A=0 --> c_Dem-N-A-Num=0 & n_N-Dem-A-Num=0, 2, 0.25
+h_Dem-N-Num-A=0 & c_Dem-N-A-Num=0 --> l_N-Dem-Num-A=0 & n_N-Dem-A-Num=0, 2, 0.08333333333333333
+h_Dem-N-Num-A=0 --> c_Dem-N-A-Num=0 & l_N-Dem-Num-A=0 & n_N-Dem-A-Num=0, 2, 0.024691358024691357
+d_Dem-Num-N-A=0 & b_Dem-Num-A-N=0 & m_Num-A-N-Dem=0 --> e_Num-N-A-Dem=0, 2, 0.5
+d_Dem-Num-N-A=0 & m_Num-A-N-Dem=0 --> e_Num-N-A-Dem=0 & b_Dem-Num-A-N=0, 2, 0.4
+e_Num-N-A-Dem=0 & b_Dem-Num-A-N=0 & m_Num-A-N-Dem=0 --> d_Dem-Num-N-A=0, 2, 0.6666666666666666
+b_Dem-Num-A-N=0 & m_Num-A-N-Dem=0 --> e_Num-N-A-Dem=0 & d_Dem-Num-N-A=0, 2, 0.16666666666666666
+m_Num-A-N-Dem=0 --> e_Num-N-A-Dem=0 & d_Dem-Num-N-A=0 & b_Dem-Num-A-N=0, 2, 0.025
+e_Num-N-A-Dem=0 & m_Num-A-N-Dem=0 --> d_Dem-Num-N-A=0 & b_Dem-Num-A-N=0, 2, 0.09523809523809523
+e_Num-N-A-Dem=0 & d_Dem-Num-N-A=0 & m_Num-A-N-Dem=0 --> b_Dem-Num-A-N=0, 2, 1.0
+e_Num-N-A-Dem=0 & d_Dem-Num-N-A=0 & b_Dem-Num-A-N=0 --> m_Num-A-N-Dem=0, 2, 0.4
+d_Dem-Num-N-A=0 & b_Dem-Num-A-N=0 --> e_Num-N-A-Dem=0 & m_Num-A-N-Dem=0, 2, 0.03278688524590164
+d_Dem-Num-N-A=0 --> e_Num-N-A-Dem=0 & b_Dem-Num-A-N=0 & m_Num-A-N-Dem=0, 2, 0.010309278350515464
+e_Num-N-A-Dem=0 & b_Dem-Num-A-N=0 --> d_Dem-Num-N-A=0 & m_Num-A-N-Dem=0, 2, 0.2857142857142857
+b_Dem-Num-A-N=0 --> e_Num-N-A-Dem=0 & d_Dem-Num-N-A=0 & m_Num-A-N-Dem=0, 2, 0.005449591280653951
+e_Num-N-A-Dem=0 --> d_Dem-Num-N-A=0 & b_Dem-Num-A-N=0 & m_Num-A-N-Dem=0, 2, 0.008130081300813009
+e_Num-N-A-Dem=0 & d_Dem-Num-N-A=0 --> b_Dem-Num-A-N=0 & m_Num-A-N-Dem=0, 2, 0.13333333333333333
+l_N-Dem-Num-A=0 & d_Dem-Num-N-A=0 --> h_Dem-N-Num-A=0, 2, 0.5
+d_Dem-Num-N-A=0 --> h_Dem-N-Num-A=0 & l_N-Dem-Num-A=0, 2, 0.010309278350515464
+h_Dem-N-Num-A=0 & d_Dem-Num-N-A=0 --> l_N-Dem-Num-A=0, 2, 0.15384615384615385
+h_Dem-N-Num-A=0 & l_N-Dem-Num-A=0 --> d_Dem-Num-N-A=0, 2, 0.25
+l_N-Dem-Num-A=0 --> h_Dem-N-Num-A=0 & d_Dem-Num-N-A=0, 2, 0.02666666666666667
+h_Dem-N-Num-A=0 --> d_Dem-Num-N-A=0 & l_N-Dem-Num-A=0, 2, 0.024691358024691357
+d_Dem-Num-N-A=0 & m_Num-A-N-Dem=0 --> e_Num-N-A-Dem=0, 2, 0.4
+e_Num-N-A-Dem=0 & m_Num-A-N-Dem=0 --> d_Dem-Num-N-A=0, 2, 0.09523809523809523
+m_Num-A-N-Dem=0 --> e_Num-N-A-Dem=0 & d_Dem-Num-N-A=0, 2, 0.025
+e_Num-N-A-Dem=0 & d_Dem-Num-N-A=0 --> m_Num-A-N-Dem=0, 2, 0.13333333333333333
+d_Dem-Num-N-A=0 --> e_Num-N-A-Dem=0 & m_Num-A-N-Dem=0, 2, 0.010309278350515464
+e_Num-N-A-Dem=0 --> d_Dem-Num-N-A=0 & m_Num-A-N-Dem=0, 2, 0.008130081300813009
+c_Dem-N-A-Num=0 & i_Dem-A-N-Num=0 --> o_A-N-Num-Dem=0, 2, 0.11764705882352941
+o_A-N-Num-Dem=0 & i_Dem-A-N-Num=0 --> c_Dem-N-A-Num=0, 2, 0.5
+i_Dem-A-N-Num=0 --> o_A-N-Num-Dem=0 & c_Dem-N-A-Num=0, 2, 0.025
+o_A-N-Num-Dem=0 & c_Dem-N-A-Num=0 --> i_Dem-A-N-Num=0, 2, 0.6666666666666666
+c_Dem-N-A-Num=0 --> o_A-N-Num-Dem=0 & i_Dem-A-N-Num=0, 2, 0.010638297872340425
+o_A-N-Num-Dem=0 --> c_Dem-N-A-Num=0 & i_Dem-A-N-Num=0, 2, 0.044444444444444446
+g_N-Num-A-Dem=0 & d_Dem-Num-N-A=0 --> a_N-A-Num-Dem=0, 2, 0.4
+a_N-A-Num-Dem=0 & d_Dem-Num-N-A=0 --> g_N-Num-A-Dem=0, 2, 0.2857142857142857
+d_Dem-Num-N-A=0 --> a_N-A-Num-Dem=0 & g_N-Num-A-Dem=0, 2, 0.010309278350515464
+a_N-A-Num-Dem=0 & g_N-Num-A-Dem=0 --> d_Dem-Num-N-A=0, 2, 0.029411764705882353
+g_N-Num-A-Dem=0 --> a_N-A-Num-Dem=0 & d_Dem-Num-N-A=0, 2, 0.016
+l_N-Dem-Num-A=0 & n_N-Dem-A-Num=0 --> h_Dem-N-Num-A=0, 2, 0.2222222222222222
+n_N-Dem-A-Num=0 --> h_Dem-N-Num-A=0 & l_N-Dem-Num-A=0, 2, 0.046511627906976744
+l_N-Dem-Num-A=0 --> h_Dem-N-Num-A=0 & n_N-Dem-A-Num=0, 2, 0.02666666666666667
+h_Dem-N-Num-A=0 & n_N-Dem-A-Num=0 --> l_N-Dem-Num-A=0, 2, 0.6666666666666666
+h_Dem-N-Num-A=0 & l_N-Dem-Num-A=0 --> n_N-Dem-A-Num=0, 2, 0.25
+h_Dem-N-Num-A=0 --> l_N-Dem-Num-A=0 & n_N-Dem-A-Num=0, 2, 0.024691358024691357
+o_A-N-Num-Dem=0 & f_N-A-Dem-Num=0 --> a_N-A-Num-Dem=0, 2, 0.6666666666666666
+a_N-A-Num-Dem=0 & f_N-A-Dem-Num=0 --> o_A-N-Num-Dem=0, 2, 0.07407407407407407
+f_N-A-Dem-Num=0 --> a_N-A-Num-Dem=0 & o_A-N-Num-Dem=0, 2, 0.018691588785046728
+a_N-A-Num-Dem=0 & o_A-N-Num-Dem=0 --> f_N-A-Dem-Num=0, 2, 0.08333333333333333
+o_A-N-Num-Dem=0 --> a_N-A-Num-Dem=0 & f_N-A-Dem-Num=0, 2, 0.044444444444444446
+c_Dem-N-A-Num=0 & i_Dem-A-N-Num=0 --> h_Dem-N-Num-A=0, 2, 0.11764705882352941
+i_Dem-A-N-Num=0 --> h_Dem-N-Num-A=0 & c_Dem-N-A-Num=0, 2, 0.025
+h_Dem-N-Num-A=0 & i_Dem-A-N-Num=0 --> c_Dem-N-A-Num=0, 2, 0.2222222222222222
+h_Dem-N-Num-A=0 & c_Dem-N-A-Num=0 --> i_Dem-A-N-Num=0, 2, 0.08333333333333333
+c_Dem-N-A-Num=0 --> h_Dem-N-Num-A=0 & i_Dem-A-N-Num=0, 2, 0.010638297872340425
+h_Dem-N-Num-A=0 --> c_Dem-N-A-Num=0 & i_Dem-A-N-Num=0, 2, 0.024691358024691357
+i_Dem-A-N-Num=0 & b_Dem-Num-A-N=0 --> h_Dem-N-Num-A=0, 2, 0.08333333333333333
+i_Dem-A-N-Num=0 --> h_Dem-N-Num-A=0 & b_Dem-Num-A-N=0, 2, 0.025
+h_Dem-N-Num-A=0 & b_Dem-Num-A-N=0 --> i_Dem-A-N-Num=0, 2, 0.4
+b_Dem-Num-A-N=0 --> h_Dem-N-Num-A=0 & i_Dem-A-N-Num=0, 2, 0.005449591280653951
+h_Dem-N-Num-A=0 --> i_Dem-A-N-Num=0 & b_Dem-Num-A-N=0, 2, 0.024691358024691357
+h_Dem-N-Num-A=0 & i_Dem-A-N-Num=0 --> b_Dem-Num-A-N=0, 2, 0.2222222222222222
+g_N-Num-A-Dem=0 & i_Dem-A-N-Num=0 --> h_Dem-N-Num-A=0, 2, 1.0
+i_Dem-A-N-Num=0 --> h_Dem-N-Num-A=0 & g_N-Num-A-Dem=0, 2, 0.025
+h_Dem-N-Num-A=0 & i_Dem-A-N-Num=0 --> g_N-Num-A-Dem=0, 2, 0.2222222222222222
+h_Dem-N-Num-A=0 & g_N-Num-A-Dem=0 --> i_Dem-A-N-Num=0, 2, 0.25
+g_N-Num-A-Dem=0 --> h_Dem-N-Num-A=0 & i_Dem-A-N-Num=0, 2, 0.016
+h_Dem-N-Num-A=0 --> g_N-Num-A-Dem=0 & i_Dem-A-N-Num=0, 2, 0.024691358024691357
+i_Dem-A-N-Num=0 & b_Dem-Num-A-N=0 --> c_Dem-N-A-Num=0, 2, 0.08333333333333333
+c_Dem-N-A-Num=0 & b_Dem-Num-A-N=0 --> i_Dem-A-N-Num=0, 2, 0.2857142857142857
+b_Dem-Num-A-N=0 --> c_Dem-N-A-Num=0 & i_Dem-A-N-Num=0, 2, 0.005449591280653951
+c_Dem-N-A-Num=0 --> i_Dem-A-N-Num=0 & b_Dem-Num-A-N=0, 2, 0.010638297872340425
+c_Dem-N-A-Num=0 & i_Dem-A-N-Num=0 --> b_Dem-Num-A-N=0, 2, 0.11764705882352941
+i_Dem-A-N-Num=0 --> c_Dem-N-A-Num=0 & b_Dem-Num-A-N=0, 2, 0.025
+d_Dem-Num-N-A=0 & b_Dem-Num-A-N=0 --> c_Dem-N-A-Num=0, 2, 0.03278688524590164
+c_Dem-N-A-Num=0 & b_Dem-Num-A-N=0 --> d_Dem-Num-N-A=0, 2, 0.2857142857142857
+b_Dem-Num-A-N=0 --> c_Dem-N-A-Num=0 & d_Dem-Num-N-A=0, 2, 0.005449591280653951
+c_Dem-N-A-Num=0 --> d_Dem-Num-N-A=0 & b_Dem-Num-A-N=0, 2, 0.010638297872340425
+c_Dem-N-A-Num=0 & d_Dem-Num-N-A=0 --> b_Dem-Num-A-N=0, 2, 0.2857142857142857
+d_Dem-Num-N-A=0 --> c_Dem-N-A-Num=0 & b_Dem-Num-A-N=0, 2, 0.010309278350515464
+f_N-A-Dem-Num=0 & n_N-Dem-A-Num=0 --> c_Dem-N-A-Num=0, 2, 0.5
+c_Dem-N-A-Num=0 & n_N-Dem-A-Num=0 --> f_N-A-Dem-Num=0, 2, 0.2857142857142857
+n_N-Dem-A-Num=0 --> c_Dem-N-A-Num=0 & f_N-A-Dem-Num=0, 2, 0.046511627906976744
+c_Dem-N-A-Num=0 & f_N-A-Dem-Num=0 --> n_N-Dem-A-Num=0, 2, 0.3333333333333333
+f_N-A-Dem-Num=0 --> c_Dem-N-A-Num=0 & n_N-Dem-A-Num=0, 2, 0.018691588785046728
+c_Dem-N-A-Num=0 --> f_N-A-Dem-Num=0 & n_N-Dem-A-Num=0, 2, 0.010638297872340425
+g_N-Num-A-Dem=0 & n_N-Dem-A-Num=0 --> a_N-A-Num-Dem=0, 2, 0.5
+a_N-A-Num-Dem=0 & n_N-Dem-A-Num=0 --> g_N-Num-A-Dem=0, 2, 0.4
+n_N-Dem-A-Num=0 --> a_N-A-Num-Dem=0 & g_N-Num-A-Dem=0, 2, 0.046511627906976744
+a_N-A-Num-Dem=0 & g_N-Num-A-Dem=0 --> n_N-Dem-A-Num=0, 2, 0.029411764705882353
+g_N-Num-A-Dem=0 --> a_N-A-Num-Dem=0 & n_N-Dem-A-Num=0, 2, 0.016
+l_N-Dem-Num-A=0 & n_N-Dem-A-Num=0 --> c_Dem-N-A-Num=0, 2, 0.2222222222222222
+c_Dem-N-A-Num=0 & n_N-Dem-A-Num=0 --> l_N-Dem-Num-A=0, 2, 0.2857142857142857
+n_N-Dem-A-Num=0 --> c_Dem-N-A-Num=0 & l_N-Dem-Num-A=0, 2, 0.046511627906976744
+c_Dem-N-A-Num=0 & l_N-Dem-Num-A=0 --> n_N-Dem-A-Num=0, 2, 0.4
+l_N-Dem-Num-A=0 --> c_Dem-N-A-Num=0 & n_N-Dem-A-Num=0, 2, 0.02666666666666667
+c_Dem-N-A-Num=0 --> l_N-Dem-Num-A=0 & n_N-Dem-A-Num=0, 2, 0.010638297872340425
+c_Dem-N-A-Num=0 & n_N-Dem-A-Num=0 --> h_Dem-N-Num-A=0, 2, 0.2857142857142857
+n_N-Dem-A-Num=0 --> h_Dem-N-Num-A=0 & c_Dem-N-A-Num=0, 2, 0.046511627906976744
+c_Dem-N-A-Num=0 --> h_Dem-N-Num-A=0 & n_N-Dem-A-Num=0, 2, 0.010638297872340425
+h_Dem-N-Num-A=0 & n_N-Dem-A-Num=0 --> c_Dem-N-A-Num=0, 2, 0.6666666666666666
+h_Dem-N-Num-A=0 & c_Dem-N-A-Num=0 --> n_N-Dem-A-Num=0, 2, 0.08333333333333333
+h_Dem-N-Num-A=0 --> c_Dem-N-A-Num=0 & n_N-Dem-A-Num=0, 2, 0.024691358024691357
+b_Dem-Num-A-N=0 & m_Num-A-N-Dem=0 --> i_Dem-A-N-Num=0, 2, 0.16666666666666666
+m_Num-A-N-Dem=0 --> i_Dem-A-N-Num=0 & b_Dem-Num-A-N=0, 2, 0.025
+i_Dem-A-N-Num=0 & m_Num-A-N-Dem=0 --> b_Dem-Num-A-N=0, 2, 1.0
+i_Dem-A-N-Num=0 & b_Dem-Num-A-N=0 --> m_Num-A-N-Dem=0, 2, 0.08333333333333333
+b_Dem-Num-A-N=0 --> i_Dem-A-N-Num=0 & m_Num-A-N-Dem=0, 2, 0.005449591280653951
+i_Dem-A-N-Num=0 --> b_Dem-Num-A-N=0 & m_Num-A-N-Dem=0, 2, 0.025
+m_Num-A-N-Dem=0 --> i_Dem-A-N-Num=0, 2, 0.025
+i_Dem-A-N-Num=0 --> m_Num-A-N-Dem=0, 2, 0.025
+l_N-Dem-Num-A=0 --> q_N-Num-Dem-A=0, 2, 0.02666666666666667
+q_N-Num-Dem-A=0 --> l_N-Dem-Num-A=0, 2, 0.3333333333333333
+i_Dem-A-N-Num=0 --> g_N-Num-A-Dem=0, 2, 0.025
+g_N-Num-A-Dem=0 --> i_Dem-A-N-Num=0, 2, 0.016
+i_Dem-A-N-Num=0 --> p_A-N-Dem-Num=0, 2, 0.025
+p_A-N-Dem-Num=0 --> i_Dem-A-N-Num=0, 2, 0.07692307692307693
+e_Num-N-A-Dem=0 --> h_Dem-N-Num-A=0, 2, 0.008130081300813009
+h_Dem-N-Num-A=0 --> e_Num-N-A-Dem=0, 2, 0.024691358024691357
+d_Dem-Num-N-A=0 --> v_Num-N-Dem-A=0, 2, 0.010309278350515464
+v_Num-N-Dem-A=0 --> d_Dem-Num-N-A=0, 2, 0.5
+p_A-N-Dem-Num=0 --> a_N-A-Num-Dem=0, 2, 0.07692307692307693
+m_Num-A-N-Dem=0 --> a_N-A-Num-Dem=0, 2, 0.025
+l_N-Dem-Num-A=0 --> p_A-N-Dem-Num=0, 2, 0.02666666666666667
+p_A-N-Dem-Num=0 --> l_N-Dem-Num-A=0, 2, 0.07692307692307693
+m_Num-A-N-Dem=0 --> o_A-N-Num-Dem=0, 2, 0.025
+o_A-N-Num-Dem=0 --> m_Num-A-N-Dem=0, 2, 0.044444444444444446
+v_Num-N-Dem-A=0 --> e_Num-N-A-Dem=0, 2, 0.5
+e_Num-N-A-Dem=0 --> v_Num-N-Dem-A=0, 2, 0.008130081300813009
+b_Dem-Num-A-N=0 --> l_N-Dem-Num-A=0, 2, 0.005449591280653951
+l_N-Dem-Num-A=0 --> b_Dem-Num-A-N=0, 2, 0.02666666666666667
