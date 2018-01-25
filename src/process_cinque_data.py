@@ -51,7 +51,7 @@ class CinqueProcessor():
         plt.xlabel("PC1")
         plt.xlabel("PC2")
         plt.title("PCA of Cinque language orderings")
-        plt.savefig("ordering_pca.png")
+        plt.savefig("../data/ordering_pca.png")
 
 if __name__ == "__main__":
     proc = CinqueProcessor()
